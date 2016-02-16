@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "AAB65AB11C5F0F6100A3F0A3"
-               BuildableName = "HW_1_ChristianOBrien.app"
-               BlueprintName = "HW_1_ChristianOBrien"
-               ReferencedContainer = "container:HW_1_ChristianOBrien.xcodeproj">
+               BlueprintIdentifier = "AAED55D21C72187C00C41F26"
+               BuildableName = "HW_2_ChristianOBrien.app"
+               BlueprintName = "HW_2_ChristianOBrien"
+               ReferencedContainer = "container:HW_2_ChristianOBrien.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "AAB65AC51C5F0F6100A3F0A3"
-               BuildableName = "HW_1_ChristianOBrienTests.xctest"
-               BlueprintName = "HW_1_ChristianOBrienTests"
-               ReferencedContainer = "container:HW_1_ChristianOBrien.xcodeproj">
+               BlueprintIdentifier = "AAED55E61C72187D00C41F26"
+               BuildableName = "HW_2_ChristianOBrienTests.xctest"
+               BlueprintName = "HW_2_ChristianOBrienTests"
+               ReferencedContainer = "container:HW_2_ChristianOBrien.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "AAB65AD01C5F0F6100A3F0A3"
-               BuildableName = "HW_1_ChristianOBrienUITests.xctest"
-               BlueprintName = "HW_1_ChristianOBrienUITests"
-               ReferencedContainer = "container:HW_1_ChristianOBrien.xcodeproj">
+               BlueprintIdentifier = "AAED55F11C72187D00C41F26"
+               BuildableName = "HW_2_ChristianOBrienUITests.xctest"
+               BlueprintName = "HW_2_ChristianOBrienUITests"
+               ReferencedContainer = "container:HW_2_ChristianOBrien.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "AAB65AB11C5F0F6100A3F0A3"
-            BuildableName = "HW_1_ChristianOBrien.app"
-            BlueprintName = "HW_1_ChristianOBrien"
-            ReferencedContainer = "container:HW_1_ChristianOBrien.xcodeproj">
+            BlueprintIdentifier = "AAED55D21C72187C00C41F26"
+            BuildableName = "HW_2_ChristianOBrien.app"
+            BlueprintName = "HW_2_ChristianOBrien"
+            ReferencedContainer = "container:HW_2_ChristianOBrien.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "AAB65AB11C5F0F6100A3F0A3"
-            BuildableName = "HW_1_ChristianOBrien.app"
-            BlueprintName = "HW_1_ChristianOBrien"
-            ReferencedContainer = "container:HW_1_ChristianOBrien.xcodeproj">
+            BlueprintIdentifier = "AAED55D21C72187C00C41F26"
+            BuildableName = "HW_2_ChristianOBrien.app"
+            BlueprintName = "HW_2_ChristianOBrien"
+            ReferencedContainer = "container:HW_2_ChristianOBrien.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "AAB65AB11C5F0F6100A3F0A3"
-            BuildableName = "HW_1_ChristianOBrien.app"
-            BlueprintName = "HW_1_ChristianOBrien"
-            ReferencedContainer = "container:HW_1_ChristianOBrien.xcodeproj">
+            BlueprintIdentifier = "AAED55D21C72187C00C41F26"
+            BuildableName = "HW_2_ChristianOBrien.app"
+            BlueprintName = "HW_2_ChristianOBrien"
+            ReferencedContainer = "container:HW_2_ChristianOBrien.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
